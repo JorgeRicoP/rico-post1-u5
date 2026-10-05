@@ -46,7 +46,7 @@ guarda el nombre del usuario identificado y el último filtro aplicado.
   que se evalúa es la del servidor, y required la ocultaría.
 - 
 ## Cómo compilar y desplegar
-1. Clonar el repositorio: `git clone [URL-del-repo]`
+1. Clonar el repositorio: `git clone https://github.com/JorgeRicoP/rico-post1-u5`
 2. Abrir la carpeta como proyecto Maven en IntelliJ IDEA (JDK 17).
 3. Ejecutar `mvn clean package`.
 4. Con Tomcat 10.1: copiar `target/gestion-tareas.war` a `webapps/` y
